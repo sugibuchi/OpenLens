@@ -54,11 +54,19 @@ scoop install openlens
 ```
 winget install openlens
 ```
+#### Chocolatey
+```
+choco install -y openlens
+```
 
+For alpha/beta builds:
+```
+choco install -y openlens --pre
+```
 
 ## Thanks
 Big Thanks to
 [Ebby Peter](https://github.com/ebbypeter)
 ,
 [Xaver Lohmüller](https://github.com/xavierLowmiller)
-and those who all supported to raise funds, for their contributions to signing the app for the community
+and those who all supported to raise funds, for their contributions to sign the app for the community
